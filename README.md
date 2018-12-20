@@ -2,8 +2,6 @@
 
 **Authors**: Tobias Bolter, Antoine Gex-Fabry, Ludovic Tuchschmid
 
-**Mails**: tobias.bolter@student.unisg.ch, antoine.gex-fabry@student.unisg.ch, ludovic.tuchschmid@student.unisg.ch
-
 ## Goals
 
 This work is done on academic purposes at the University of St.Gallen (HSG).
