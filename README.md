@@ -51,8 +51,7 @@ GIFs are also included to help the understanding.
 #### API keys
 It is required that the user has an API key for Quandl **and** for Alphavantage.
 Please do the necessary steps to get those requirements from the website of the data providers.
-Here are the <a href = "https://docs.quandl.com/docs/python-installation">instructions for Quandl</a> and
-here are the <a href = "https://www.alphavantage.co/support/#api-key">instructions for Alphavantage</a>.
+Here are the <a href = "https://docs.quandl.com/docs/python-installation"  target="_blank">instructions for Quandl</a> and here are the <a href = "https://www.alphavantage.co/support/#api-key" target="_blank">instructions for Alphavantage</a>.
 
 Those two API keys will only be asked from the user the first time she/he runs the program.
 They will then be stored in a text file and saved in `API_Key` folder to be called for the next times.
@@ -79,7 +78,7 @@ On the **application level**, the initial inputs are:
 ![](/gifs/LoadData.gif)
 
 List of available tickers:
-<a href = "https://www.quandl.com/data/EOD-End-of-Day-US-Stock-Prices">Quandl Website</a>
+<a href = "https://www.quandl.com/data/EOD-End-of-Day-US-Stock-Prices"  target="_blank">Quandl Website</a>
 
 **Descriptive statistics:**
   * An integer between 1 and 9 to access various descriptives statistics (X to quit)
